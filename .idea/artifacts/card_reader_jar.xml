@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="card_reader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/card_reader_jar</output-path>
+    <root id="archive" name="card_reader.jar">
+      <element id="module-output" name="card_reader" />
+    </root>
+  </artifact>
+</component>
